@@ -1,0 +1,19 @@
+{
+  "name": "circleci-intro",
+  "version": "1.0.0",
+  "description": "Circle CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diana-suasnavas/circleci-intro.git"
+  },
+  "author": "Diana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diana-suasnavas/circleci-intro/issues"
+  },
+  "homepage": "https://github.com/diana-suasnavas/circleci-intro#readme"
+}
